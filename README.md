@@ -10,9 +10,12 @@
 [![](https://visitcount.itsvg.in/api?id=Chaitanya-YD14&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
+## My Contribution Graph
+
+<!-- pacman -->
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/[game-name]-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/[game-name]-contribution-graph.svg">
-    <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/[game-name]-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chaitanya-YD14/Chaitanya-YD14/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chaitanya-YD14/Chaitanya-YD14/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Chaitanya-YD14/Chaitanya-YD14/output/pacman-contribution-graph.svg">
 </picture>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
